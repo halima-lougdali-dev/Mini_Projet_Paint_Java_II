@@ -1,0 +1,10 @@
+# Fichiers Java compilés
+*.class
+
+# Dossiers de compilation
+bin/
+out/
+build/
+
+# Configuration locale VS Code
+.vscode/
